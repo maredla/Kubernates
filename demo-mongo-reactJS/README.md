@@ -13,8 +13,8 @@ Command to start the minikube - it creats a cluster
 Create the K8 components - ConfigFile, Secret, Deployment and Services
 **_kubectl apply -f <<file_name>>_**
 
-After successful creation of K8 components, check the pods status**
-_kubectl get pods_**
+After successful creation of K8 components, check the pods status
+**_kubectl get pods_**
 
 Get minikube node's ip address
 **_minikiube IP_**
